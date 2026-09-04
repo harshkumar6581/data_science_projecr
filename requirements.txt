@@ -4,4 +4,4 @@ pandas
 numpy
 scikit-learn
 statsmodels
-tensorflow
+tensorflow>=2.16.1
